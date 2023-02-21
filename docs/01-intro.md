@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_label: "文档介绍"
 ---
 
 # Tutorial Intro

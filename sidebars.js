@@ -24,7 +24,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
+      items: ['02-tutorial-yang/create-a-document'],
     },
   ],
    */
