@@ -49,7 +49,7 @@ const config = {
           blogSidebarTitle: '全部文章',
           blogSidebarCount: 'ALL',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/stone2lyy/our-website/tree/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

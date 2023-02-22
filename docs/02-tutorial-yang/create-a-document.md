@@ -50,7 +50,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Tutorial',
-      items: ['02-tutorial-yang/create-a-document'],
+      items: ['02-21-tutorial-yang/create-a-document'],
     },
   ],
 };
