@@ -2,14 +2,9 @@
 title: 相识第194天
 description: 天气☀️ 温度不高当时太阳很暖和
 slug: 20230221
-authors:
-  - name: stone yang
-    title: 沉浮于红尘的小码农
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
+authors: stone
 tags: [together]
-image: https://i.imgur.com/mErPwqL.png
-hide_table_of_contents: false
+hide_table_of_contents: true   
 ---
 
 太阳很好，也无法像你一样照耀我

@@ -1,0 +1,17 @@
+.wrap {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+}
+
+.container {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(9, 50px);
+    grid-template-rows: repeat(9, 50px);
+}
+
+.cell {
+    border: 1px dashed #999;
+}

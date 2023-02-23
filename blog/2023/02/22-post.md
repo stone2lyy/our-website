@@ -2,16 +2,11 @@
 title: 相识第195天
 description: 细雨绵绵
 slug: 20230222
-authors:
-  - name: stone yang
-    title: 沉浮于红尘的小码农
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
+authors: stone
 tags: [together]
-image: https://i.imgur.com/mErPwqL.png
-hide_table_of_contents: false
+hide_table_of_contents: true
 ---
-
+    
 淅淅沥沥的小雨没有淋在身上，也冲刷不掉心里的阴霾
 
 宿醉之后可以忘掉一切，确忘不了你
