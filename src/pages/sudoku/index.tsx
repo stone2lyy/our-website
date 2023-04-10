@@ -1,5 +1,4 @@
 import React,{useState} from 'react'
-import Layout from '@theme/Layout';
 import style from './su.module.css';
 
 export default () => {
